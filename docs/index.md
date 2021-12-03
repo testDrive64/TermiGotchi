@@ -1,13 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to TermiGotchi
 
-You can use the [editor on GitHub](https://github.com/testDrive64/TermiGotchi/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This is a friendly terminal Pet for everyone.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It will interrupt you once in a while.
+The Pet can play, eat and go out.
 
-### Markdown
+### Functions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Eat:
+    Once in a while the pet need to eat something. You can buy food or take it when you go out for a walk with yout pet.
 
+Play:
+    There are different skills your pet can learn. Maybe it will help you with your work from time to time.
+
+Go out:
+    When you go out with yout pet, you can loot some items on your way. When your pet fell good and free, there is a  chance to find some special items.
+
+
+### Code
 ```markdown
 Syntax highlighted code block
 
