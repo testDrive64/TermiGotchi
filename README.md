@@ -1,6 +1,6 @@
 # TermiGotchi #
 
-## Der Freundliche Terminal Friend ##
+## The Friendly Terminal Friend ##
 
 * This is a little fun tool to get a little pet inside your terminal.
 * Start little TermiGotchi world and check stats like health and 
