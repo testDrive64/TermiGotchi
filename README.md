@@ -10,26 +10,20 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* The start of the Python script is to start a TerminalGotchi. This is a small terminal pet which reports from time to time and which reacts to defined commands.
+* Version 0.1
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+At the moment there is no special configuration.
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
+On Linux and Mac Os X
+``` 
+python3 termi.py
+```  
 
 ### Who do I talk to? ###
 
 * Repo owner or admin
 * Other community or team contact
+* Command line users.
